@@ -1,0 +1,7 @@
+C:\Users\Thom\Desktop\Will's Stuff\Lab2App\Lab2App\bin\Debug\Lab2App.exe.config
+C:\Users\Thom\Desktop\Will's Stuff\Lab2App\Lab2App\bin\Debug\Lab2App.exe
+C:\Users\Thom\Desktop\Will's Stuff\Lab2App\Lab2App\bin\Debug\Lab2App.pdb
+C:\Users\Thom\Desktop\Will's Stuff\Lab2App\Lab2App\obj\Debug\Lab2App.csprojAssemblyReference.cache
+C:\Users\Thom\Desktop\Will's Stuff\Lab2App\Lab2App\obj\Debug\Lab2App.csproj.CoreCompileInputs.cache
+C:\Users\Thom\Desktop\Will's Stuff\Lab2App\Lab2App\obj\Debug\Lab2App.exe
+C:\Users\Thom\Desktop\Will's Stuff\Lab2App\Lab2App\obj\Debug\Lab2App.pdb
